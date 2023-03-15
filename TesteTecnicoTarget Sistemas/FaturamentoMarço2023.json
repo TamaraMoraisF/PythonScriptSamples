@@ -1,0 +1,188 @@
+[
+  {
+    "_id": "6410bce4d391065fe7fdc84b",
+    "faturamento": 1782.79,
+    "data": "01/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce402493f8ebaaf421f",
+    "faturamento": 1132.49,
+    "data": "02/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce46f7d1f8a237b1dae",
+    "faturamento": 2446.29,
+    "data": "03/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce442843a3b744973f8",
+    "faturamento": 0,
+    "data": "04/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce4146f3390dfb4ec00",
+    "faturamento": 0,
+    "data": "05/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce41d1e58e13bc4af00",
+    "faturamento": 1774.31,
+    "data": "06/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce484180eaa429294bb",
+    "faturamento": 970.02,
+    "data": "07/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4d20f6b4356b2a089",
+    "faturamento": 1294.50,
+    "data": "08/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce44236576f2d958a01",
+    "faturamento": 1142.66,
+    "data": "09/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4712e9c67716fa546",
+    "faturamento": 1880.86,
+    "data": "10/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4baa6e308442a2011",
+    "faturamento": 0,
+    "data": "11/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce4baa6e308442a2011",
+    "faturamento": 0,
+    "data": "12/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce4be116fb3141a1dba",
+    "faturamento": 2526.98,
+    "data": "13/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4a39c30e63433ce6a",
+    "faturamento": 1932.84,
+    "data": "14/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4c9a43360294305be",
+    "faturamento": 1927.83,
+    "data": "15/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4c1a4570ffb769ccb",
+    "faturamento": 1189.17,
+    "data": "16/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4aad4892634b2d61a",
+    "faturamento": 997.15,
+    "data": "17/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce43d59359b2d402352",
+    "faturamento": 0,
+    "data": "18/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce499abd164f9fc04c3",
+    "faturamento": 0,
+    "data": "19/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce4cd60be519b07ba22",
+    "faturamento": 1461.54,
+    "data": "20/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4a4ed9f00e6a8b113",
+    "faturamento": 2296.81,
+    "data": "21/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce48f69d201e8f0f4ae",
+    "faturamento": 2160.05,
+    "data": "22/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce44f374c142309ee19",
+    "faturamento": 1231.22,
+    "data": "23/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce40999f6d10622540a",
+    "faturamento": 1169.58,
+    "data": "24/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4ec8f9ca06e42aabc",
+    "faturamento": 0,
+    "data": "25/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce41323b45981dc211d",
+    "faturamento": 0,
+    "data": "26/03/2023",
+    "diaUtil": false
+  },
+  {
+    "_id": "6410bce4ada0a9a2dcae242e",
+    "faturamento": 1524.18,
+    "data": "27/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce49e83921cd6a858dc",
+    "faturamento": 2116.07,
+    "data": "28/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce42a2798a1bc8e82e3",
+    "faturamento": 2656.77,
+    "data": "29/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce43f0ac1ef49a8f4b3",
+    "faturamento": 973.96,
+    "data": "30/03/2023",
+    "diaUtil": true
+  },
+  {
+    "_id": "6410bce4a61772502b51d712",
+    "faturamento": 1127.30,
+    "data": "31/03/2023",
+    "diaUtil": true
+  }
+]

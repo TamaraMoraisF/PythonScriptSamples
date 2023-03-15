@@ -1,0 +1,12 @@
+SP = float(67.836)
+RJ = float(36.678)
+MG = float(29.229)
+ES = float(27.165)
+Outros = float(19.849)
+soma = SP + RJ + MG + ES + Outros
+print(soma)
+print(f'Percentual de SP foi de {(SP / soma) * 100:>.1f}%')
+print(f'Percentual de RJ foi de {(RJ / soma) * 100:>.1f}%')
+print(f'Percentual de MG foi de {(MG / soma) * 100:>.1f}%')
+print(f'Percentual de ES foi de {(ES / soma) * 100:>.1f}%')
+print(f'Percentual de Outros foi de {(Outros / soma) * 100:>.1f}%')
