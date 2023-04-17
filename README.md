@@ -1,26 +1,26 @@
-# TesteTecnicoTarget-Sistemas
+# Programas em Python para teste técnido da empresa empresa Target Sistemas São Paulo
 Projetos feito em python para a empresa Target Sistemas.
 
-Projeto 1 - Sequência de Fibonacci
-A sequência de Fibonacci é uma sequência de números onde cada número é a soma dos dois números anteriores. 
-Neste projeto, foi desenvolvido um programa em Python que, dado um número informado pelo usuário, verifica se o número pertence à sequência de Fibonacci.
+Este repositório contém programas em Python desenvolvidos para a empresa Target Sistemas. Os programas estão organizados em diferentes arquivos e cada arquivo corresponde a um dos desafios propostos pela empresa.
 
+## Desafios propostos
+Sequência de Fibonacci
+O programa "fibonacci.py" recebe um número como entrada e calcula a sequência de Fibonacci até o valor mais próximo do número informado. Em seguida, ele verifica se o número informado pertence à sequência e retorna uma mensagem correspondente.
 
-Projeto 2 - Faturamento diário de uma distribuidora
-Neste projeto, foi desenvolvido um programa em Python que recebe como entrada um vetor que guarda o valor de faturamento diário de uma distribuidora e calcula:
+### Faturamento Diário
+O programa "faturamento_diario.py" recebe um arquivo json com os valores de faturamento diário de uma distribuidora. A partir desse arquivo, o programa calcula o menor e o maior valor de faturamento ocorrido em um dia do mês e o número de dias em que o valor de faturamento diário foi superior à média mensal, desconsiderando os dias sem faturamento.
 
-• O menor valor de faturamento ocorrido em um dia do mês;
+### Faturamento Mensal
+O programa "faturamento_mensal.py" calcula o percentual de representação de cada estado em relação ao valor total mensal de faturamento de uma distribuidora. Os valores de faturamento de cada estado são previamente definidos no código.
 
-• O maior valor de faturamento ocorrido em um dia do mês;
+### Inversão de String
+O programa "inversao_string.py" recebe uma string como entrada e inverte a ordem dos caracteres sem usar funções prontas, como reverse.
 
-• O número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
+## Como utilizar
+Para utilizar os programas, basta clonar o repositório e executar cada arquivo Python separadamente. É importante ter os requisitos necessários para executar o código Python em seu ambiente.
 
-Para obter os dados de faturamento, o programa utiliza o arquivo JSON como fonte de dados.
+## Contribuições
+Contribuições são bem-vindas! Caso queira adicionar alguma funcionalidade ou corrigir um problema, por favor abra uma issue ou envie um pull request para este repositório.
 
-
-Projeto 3 - Faturamento mensal de uma distribuidora por estado
-Neste projeto, foi desenvolvido um programa em Python que calcula o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora. Os dados de faturamento mensal foram detalhados por estado e fornecidos como entrada no próprio código.
-
-
-Projeto 4 - Inversão de caracteres em uma string
-Neste projeto, foi desenvolvido um programa em Python que inverte os caracteres de uma string informada pelo usuário. O programa foi desenvolvido sem utilizar funções prontas, como a função reverse.
+## Licença
+Este projeto está licenciado sob a Licença MIT. Para mais informações, consulte o arquivo LICENSE.
