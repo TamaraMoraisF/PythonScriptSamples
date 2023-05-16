@@ -1,7 +1,5 @@
-# Programas em Python para teste técnido da empresa empresa Target Sistemas São Paulo
-Projetos feito em python para a empresa Target Sistemas.
-
-Este repositório contém programas em Python desenvolvidos para a empresa Target Sistemas. Os programas estão organizados em diferentes arquivos e cada arquivo corresponde a um dos desafios propostos pela empresa.
+# Scripts de Teste em Python - Geral
+Este repositório contém programas em Python desenvolvidos para fins de teste. Os programas estão organizados em diferentes arquivos, e cada arquivo corresponde a um dos desafios propostos.
 
 ## Desafios propostos
 
